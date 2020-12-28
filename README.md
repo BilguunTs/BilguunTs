@@ -1,12 +1,7 @@
 ### Hi there 👋
-⚡ Fun fact: I am actually not a bird, took that picture when I was 12th grade
-▄───▄
-█▀█▀█
-█▄█▄█
-─███──▄▄
-─████▐█─█
-─████───█
-─▀▀▀▀▀▀▀
+⚡ Fun fact: I am actually not a bird
+
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
       
       
       
