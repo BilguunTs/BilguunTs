@@ -1,6 +1,7 @@
 ### ALL TOO HUMAN
 ___________________
-![Alt Text](https://media.giphy.com/media/3qj3VtNL2nhmw/giphy.gif)
+Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me.
+![Alt Text](https://static.dw.com/image/19201685_401.jpg)
       
       
       
