@@ -79,14 +79,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BilguunTs&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🎯 Goals for 2025
-- [ ] Build a custom game engine from scratch
-- [ ] Master Vulkan API and modern graphics programming
-- [ ] Contribute to open source game development tools
-- [ ] Explore GPU programming with CUDA/OpenCL
 
 
 <div align="center">
